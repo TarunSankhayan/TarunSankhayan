@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 I am Tarun, a wannabe ML engineer based in India.
 
 I build AI/ML models, neural networks, system architectures.
@@ -8,8 +7,6 @@ I design and create whatever i can.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 #
-_____________________________________________________________________________________________________________________
-
 🔍EXPLORING THE DEPTHS OF:                                                                            
 
 * 🐍 Python
@@ -21,8 +18,7 @@ ________________________________________________________________________________
 * ⚙️ Low-Level Programming
 
 * 🏗️ System Architectures
-_____________________________________________________________________________________________________________________
-
+#
 🔧 TECH & TOOLS I MESS WITH:
 
 *   Python, C/C++
@@ -34,13 +30,11 @@ ________________________________________________________________________________
 *   System programming & architecture
 
 *   Linux systems
-_____________________________________________________________________________________________________________________
-
+#
 💡 FUN FACTS:
 * My GPU probably hates me but we’re in a long-term relationship.
 * I judge programming languages by their error messages.
-_____________________________________________________________________________________________________________________
-
+#
 📫 CONNECT:
 Feel free to check out my repos or drop a star if something interests you.
 You can mail me at: sankhayantarun@gmail.com

@@ -8,22 +8,34 @@ I Design and create whatever i can.
 If an idea pops into my head,chances are i'll build it and ship it.
 
 
-🔍EXPLORING THE DEPTHS OF:                                                                            🔧 TECH & TOOLS I MESS WITH:
+🔍EXPLORING THE DEPTHS OF:                                                                            
 
-🐍 Python                                                                                              *   Python,C/C++
+* 🐍 Python
+  
+* 🧠 Language Models & Neural Networks
 
-🧠 Language Models & Neural Networks                                                                   *   Pytorch/TensorFlow
+* 🌐 Computer Networks
 
-🌐 Computer Networks                                                                                   *   Networking fundamentals & protocols
+* ⚙️ Low-Level Programming
 
-⚙️ Low-Level Programming                                                                               *   System programming & architecture
-
-🏗️ System Architectures                                                                                *   Linux systems
+* 🏗️ System Architectures
 
 
-FUN FACTS:
-*My GPU probably hates me but we’re in a long-term relationship.
-*I judge programming languages by their error messages.
+🔧 TECH & TOOLS I MESS WITH:
+
+*   Python,C/C++
+
+*   Pytorch/TensorFlow
+
+*   Netwroking fundamentals & protocols
+
+*   System programing & architecture
+
+*   Linux systems
+
+💡 FUN FACTS:
+* My GPU probably hates me but we’re in a long-term relationship.
+* I judge programming languages by their error messages.
 
 📫 CONNECT:
 Feel free to check out my repos or drop a star if something interests you.

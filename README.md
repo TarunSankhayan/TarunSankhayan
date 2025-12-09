@@ -1,8 +1,8 @@
 Hi there 👋
 
-I am Tarun,a wannabe ML engineer based in India.
+I am Tarun, a wannabe ML engineer based in India.
 
-I build AI/ML models,nueral networks,system architectures.
+I build AI/ML models,neural networks,system architectures.
 
 I Design and create whatever i can.
 
@@ -28,9 +28,9 @@ If an idea pops into my head,chances are i'll build it and ship it.
 
 *   Pytorch/TensorFlow
 
-*   Netwroking fundamentals & protocols
+*   Networking fundamentals & protocols
 
-*   System programing & architecture
+*   System programming & architecture
 
 *   Linux systems
 

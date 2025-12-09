@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Tarun(https://github.com/<TarunSankhayan>), a wannabe ML engineer based in India.
+I am [Tarun](https://github.com/<TarunSankhayan>), a wannabe ML engineer based in India.
 
 I build AI/ML models, neural networks, system architectures.
 

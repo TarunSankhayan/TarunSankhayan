@@ -7,7 +7,7 @@ I build AI/ML models, neural networks, system architectures.
 I design and create whatever i can.
 
 If an idea pops into my head, chances are I'll build it and ship it.
-
+_____________________________________________________________________________________________________________________
 
 🔍EXPLORING THE DEPTHS OF:                                                                            
 
@@ -20,7 +20,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 * ⚙️ Low-Level Programming
 
 * 🏗️ System Architectures
-
+_____________________________________________________________________________________________________________________
 
 🔧 TECH & TOOLS I MESS WITH:
 
@@ -33,10 +33,12 @@ If an idea pops into my head, chances are I'll build it and ship it.
 *   System programming & architecture
 
 *   Linux systems
+_____________________________________________________________________________________________________________________
 
 💡 FUN FACTS:
 * My GPU probably hates me but we’re in a long-term relationship.
 * I judge programming languages by their error messages.
+_____________________________________________________________________________________________________________________
 
 📫 CONNECT:
 Feel free to check out my repos or drop a star if something interests you.

@@ -7,6 +7,7 @@ I build AI/ML models, neural networks, system architectures.
 I design and create whatever i can.
 
 If an idea pops into my head, chances are I'll build it and ship it.
+#
 _____________________________________________________________________________________________________________________
 
 🔍EXPLORING THE DEPTHS OF:                                                                            

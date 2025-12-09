@@ -2,11 +2,11 @@ Hi there 👋
 
 I am Tarun, a wannabe ML engineer based in India.
 
-I build AI/ML models,neural networks,system architectures.
+I build AI/ML models, neural networks, system architectures.
 
-I Design and create whatever i can.
+I design and create whatever i can.
 
-If an idea pops into my head,chances are i'll build it and ship it.
+If an idea pops into my head, chances are I'll build it and ship it.
 
 
 🔍EXPLORING THE DEPTHS OF:                                                                            
@@ -24,7 +24,7 @@ If an idea pops into my head,chances are i'll build it and ship it.
 
 🔧 TECH & TOOLS I MESS WITH:
 
-*   Python,C/C++
+*   Python, C/C++
 
 *   Pytorch/TensorFlow
 

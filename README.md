@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 I am Tarun, a wannabe ML engineer based in India.
 
 I build AI/ML models, neural networks, system architectures.

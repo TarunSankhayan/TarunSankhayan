@@ -26,7 +26,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 *   Python, C/C++
 
-*   Pytorch/TensorFlow
+*   Pytorch/TensorFlow and other libraries
 
 *   Networking fundamentals & protocols
 
